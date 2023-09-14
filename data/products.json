@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung Galaxy S21",
+    "description": "The Samsung Galaxy S21 is a high-end smartphone with a powerful camera and fast performance.",
+    "price": 799,
+    "imageURL": "https://m.media-amazon.com/images/I/71FlLSQeJ-L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Apple iPhone 13",
+    "description": "The Apple iPhone 13 features the latest A15 Bionic chip and an impressive Super Retina XDR display.",
+    "price": 799.0,
+    "imageURL": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 6",
+    "description": "The Google Pixel 6 boasts a stunning camera system and the latest Android OS.",
+    "price": 699.0,
+    "imageURL": "https://m.media-amazon.com/images/I/71FpXTBHDnL.jpg"
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 9 Pro",
+    "description": "The OnePlus 9 Pro offers a fast and smooth user experience with its OxygenOS.",
+    "price": 799.0,
+    "imageURL": "https://m.media-amazon.com/images/I/61LvUvbZGlL.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sony Xperia 1 III",
+    "description": "The Sony Xperia 1 III features a 4K display and exceptional audio quality.",
+    "price": 999,
+    "imageURL": "https://m.media-amazon.com/images/I/61SPQ9SnfpL.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Xiaomi Mi 11",
+    "description": "The Xiaomi Mi 11 offers flagship-level performance at an affordable price.",
+    "price": 699.0,
+    "imageURL": "https://m.media-amazon.com/images/I/51K4vNxMAhS.jpg"
+  },
+  {
+    "id": 7,
+    "title": "LG Velvet",
+    "description": "The LG Velvet combines style with a versatile camera system.",
+    "price": 599.0,
+    "imageURL": "https://m.media-amazon.com/images/I/71epYJfrPnL.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Huawei P40 Pro",
+    "description": "The Huawei P40 Pro offers impressive photography capabilities with its Leica cameras.",
+    "price": 899.0,
+    "imageURL": "https://m.media-amazon.com/images/I/517xKkdjNDL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Nokia 9 PureView",
+    "description": "The Nokia 9 PureView features a unique five-camera setup for stunning photography.",
+    "price": 499.0,
+    "imageURL": "https://m.media-amazon.com/images/I/51ls1kpJJsL.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Motorola Edge+",
+    "description": "The Motorola Edge+ offers a high-refresh-rate display and powerful performance.",
+    "price": 799.0,
+    "imageURL": "https://m.media-amazon.com/images/I/313MUZ7y+-S._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Asus ROG Phone 5",
+    "description": "The Asus ROG Phone 5 is a gaming-centric smartphone with impressive specs.",
+    "price": 899.0,
+    "imageURL": "https://m.media-amazon.com/images/I/31Uw+nhwR6S.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Oppo Find X3 Pro",
+    "description": "The Oppo Find X3 Pro offers a vibrant display and versatile camera capabilities.",
+    "price": 899.0,
+    "imageURL": "https://m.media-amazon.com/images/I/61T8cobSHhL.jpg"
+  },
+  {
+    "id": 13,
+    "title": "BlackBerry Key2",
+    "description": "The BlackBerry Key2 combines a physical keyboard with modern smartphone features.",
+    "price": 499.0,
+    "imageURL": "https://m.media-amazon.com/images/I/61RXPf33KrL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "ZTE Axon 30 Ultra",
+    "description": "The ZTE Axon 30 Ultra offers a triple-camera system for photography enthusiasts.",
+    "price": 699.0,
+    "imageURL": "https://m.media-amazon.com/images/I/415CmYlPDgL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Vivo X60 Pro",
+    "description": "The Vivo X60 Pro features a gimbal camera system for stable and clear photos.",
+    "price": 699.0,
+    "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/71EshsD+G7L._AC_UL600_SR600,600_.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Realme 8 Pro",
+    "description": "The Realme 8 Pro offers a high-resolution camera and fast charging capabilities.",
+    "price": 299.0,
+    "imageURL": "https://m.media-amazon.com/images/I/418ikiw9zVS.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Lenovo Legion Phone Pro",
+    "description": "The Lenovo Legion Phone Pro is a gaming smartphone with customizable RGB lighting.",
+    "price": 899.0,
+    "imageURL": "https://i.gadgets360cdn.com/products/large/Legion-Phone-Duel-2-DB-275x800-1617943992.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Xiaomi Redmi Note 10",
+    "description": "The Xiaomi Redmi Note 10 offers great value for its features and price.",
+    "price": 199.0,
+    "imageURL": "https://m.media-amazon.com/images/I/61MykcLL8oS.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Google Pixel 5",
+    "description": "The Google Pixel 5 features a fantastic camera and pure Android experience.",
+    "price": 699.0,
+    "imageURL": "https://m.media-amazon.com/images/I/516wyv8wYGL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Sony Xperia 5 III",
+    "description": "The Sony Xperia 5 III offers a compact design and impressive camera capabilities.",
+    "price": 899.0,
+    "imageURL": "https://m.media-amazon.com/images/I/71z6n0r8vHL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
